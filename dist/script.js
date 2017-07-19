@@ -72,6 +72,9 @@
 
 __webpack_require__(1);
 
+var div = document.getElementById('picogram');
+console.log(div);
+
 /***/ }),
 /* 1 */
 /***/ (function(module, exports) {
